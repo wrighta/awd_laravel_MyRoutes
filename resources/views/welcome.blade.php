@@ -26,7 +26,7 @@
 
             <a href="/register"> Register</a>
 
-            <a href="/register"> About</a>
+            <a href="/about"> About</a>
 
     </body>
 </html>
